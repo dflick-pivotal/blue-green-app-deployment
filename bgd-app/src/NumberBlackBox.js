@@ -1,4 +1,4 @@
-function NumberBlackBox() {
+function NumberBlackBox() { 
 };
 
 NumberBlackBox.prototype.myNumber = Math.floor(Math.random() * 1000); // generates a number between 0 and 1000
